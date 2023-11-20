@@ -1,5 +1,9 @@
+"""
+The Finance Tracker class introduces personal finance management. It features budget setting, 
+expense tracking by category, and savings goal management. The class provides functionalities 
+for adding expenses, retrieving financial summaries, and analyzing budget adherence, using OOP in Python.
 
-
+"""
 class FinanceTracker:
   ##constructor
   def __init__(self, budget=0, expenses=None, expenses_categories=None, savings_goal=0):
