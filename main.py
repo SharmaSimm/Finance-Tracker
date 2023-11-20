@@ -3,7 +3,11 @@
 """
 
 Personal Finance Tracker Program.
-
+main.py serves as the entry point for the Personal Finance Tracker program, integrating modules like Budget, Expenses, FinanceTracker, and FinancialActivity. 
+It offers a user interface for setting budgets, recording expenses, and tracking savings goals.
+Key features include user input validation, interactive menu options for various financial operations, and a summary view of the user's financial status. 
+This script demonstrates practical application of modular programming in Python, 
+bringing together different components of the finance management system for a cohesive user experience.
 
 
 This program allows a user to manage their finances by tracking their budget, expenses, and savings goals. 
