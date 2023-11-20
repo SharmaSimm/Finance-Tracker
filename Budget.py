@@ -1,3 +1,12 @@
+"""
+Budget file extends the "FinancialActivity" class to include budgeting capabilities. 
+It manages budget categories with spending limits, offering methods to set &retrieve these limits. 
+The class provides a concise string representation of each budget category, its spending, and its maximum limits, 
+demonstrating the use of inheritance in Python.
+
+
+
+"""
 from FinancialActivity import FinancialActivity
 
 class Budget(FinancialActivity):
