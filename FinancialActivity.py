@@ -1,4 +1,11 @@
+"""
+This class serves as a foundational structure for tracking various financial activites,
+including bills,activites and food expenses. It allows for the addition of expenses by type,
+with optional parameters for company, location and name. The class also include getters and setters for category and amount. 
+Key functionality invloves categorizing and summing expenses, demonstrated through an intuitive method.
 
+
+"""
 class FinancialActivity:
   def __init__(self,category= "", amount = 0.0):
     self._category = category
