@@ -1,25 +1,18 @@
-'''
-DEVELOPER: Shikshya Sharma
-COLLABORATORS: Myself
-DATE: 10/14/2023
-'''
 
-"""A one line summary of the program, terminated by a period.
+
+"""
 
 Personal Finance Tracker Program.
 
-Leave one blank line.  The rest of this docstring should contain an
-overall description of the program.
 
-This program allows a user to manage their finances by tracking their budget, expenses, and savings goals. Users can interact with a simple text to manage various financial categories, view summaries and perform operations to calculate their financial status.
+
+This program allows a user to manage their finances by tracking their budget, expenses, and savings goals. 
+Users can interact with a simple text to manage various financial categories, view summaries and perform operations to calculate their financial status.
 """
 
 ##########################################
 # IMPORTS:
-#   <list modules needed for program and their purpose>
-# Importing classes from separate files
-##########################################
-#<replace this line with import statement(s)>
+
 import Budget
 import Expenses
 from FinanceTracker import FinanceTracker
